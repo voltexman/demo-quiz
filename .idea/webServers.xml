@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="755f64c4-d410-4388-9f1d-b101ab8702e4" name="demo-quiz" url="http://iceber02.ftp.tools">
+        <fileTransfer host="iceber02.ftp.tools" port="21" rootFolder="/iceberg.vn.ua">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
